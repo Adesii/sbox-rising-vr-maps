@@ -1,0 +1,14 @@
+{
+  "Title": "Rising Test map",
+  "Type": "map",
+  "Org": "local",
+  "Ident": "rising_test_map",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {}
+}
